@@ -20,3 +20,15 @@ UFW or other firewall:
 CloudFlare:
 * SSL set to at least Full.
 * Firewall disabled if an abnormal amount of load is expected.
+
+## Added features
+
+* Multple PlexPy config with Prxy_Redirect
+* Ombi Request config
+* Certbot path exemption (for letsencrypt certificate)
+
+## To be added
+
+* Multiple plex server configs
+* Smart TV Fix (if there is one)
+* Chrome Pause fix
