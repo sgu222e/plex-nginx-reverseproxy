@@ -23,7 +23,7 @@ CloudFlare:
 
 ## Added features
 
-* Multple PlexPy config with Prxy_Redirect
+* Multple PlexPy config with Proxy_Redirect (may not be required, but needed on my setup)
 * Ombi Request config
 * Certbot path exemption (for letsencrypt certificate)
 
