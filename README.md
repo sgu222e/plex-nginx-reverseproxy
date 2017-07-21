@@ -33,3 +33,7 @@ CloudFlare:
 
 * Smart TV Fix (if there is one)
 * Chrome Pause fix
+
+## Setup nginx and cloudflare help
+
+* This guide was my goto, though I did it all with a single IP and no apache: https://quickbox.io/wiki/set-up-a-cdn-for-plex-with-cloudflare-nginx/
