@@ -1,6 +1,7 @@
 # Plex Nginx Reverse Proxy
  
 This configuration will allow you to serve Plex via Nginx.
+Rediesigned to support multiple plex servers behind a single nginx gateway
  
 ## Minimal Requirements
  
@@ -23,12 +24,12 @@ CloudFlare:
 
 ## Added features
 
+* Multiple plex server configs
 * Multple PlexPy config with Proxy_Redirect (may not be required, but needed on my setup)
 * Ombi Request config
 * Certbot path exemption (for letsencrypt certificate)
 
 ## To be added
 
-* Multiple plex server configs
 * Smart TV Fix (if there is one)
 * Chrome Pause fix
